@@ -1,0 +1,16 @@
+{
+  "name": "scroll-timeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/timeline.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^5.2.0"
+  }
+}
